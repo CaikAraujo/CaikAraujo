@@ -46,36 +46,52 @@ I am a 21-year-old Brazilian developer based in **Geneva, Switzerland**. Current
 <div align="center">
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>❄️ VF FROID System</h3>
+      <p>Complex API for thermal telemetry with automatic PDF report generation and email integration.</p>
+      <p>
+        <b>Stack:</b> 
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <a href="LINK_DO_REPOSITORIO_VF_FROID">
+        <img src="https://img.shields.io/badge/View_Repository-2E4632?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 LA Global Express</h3>
+      <p>Modern digital infrastructure and web platform developed for corporate logistics and moving services.</p>
+      <p>
+        <b>Stack:</b>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+      </p>
+      <a href="https://github.com/CaikAraujo/la-global-express">
+        <img src="https://img.shields.io/badge/View_Repository-2E4632?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 
-### ❄️ VF FROID System
-A complex thermal telemetry API designed for real-time monitoring, PDF report generation, and automated email workflows.
-
-**Stack:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-<a href="https://github.com/CaikAraujo/Fridge-Telemetry-System">
-  <img src="https://img.shields.io/badge/View_Repository-2E4632?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📦 LA Global Express
-Modern digital infrastructure and web platform developed for corporate logistics and moving services.
-
-**Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-
-<a href="https://github.com/CaikAraujo/la-global-express">
-  <img src="https://img.shields.io/badge/View_Repository-2E4632?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Scheduler API</h3>
+      <p>An API developed for appointment management, focusing on high scalability, rigorous data validation, and security.</p>
+      <p>
+        <b>Stack:</b>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <a href="LINK_DO_SEU_NOVO_PROJETO">
+        <img src="https://img.shields.io/badge/View_Repository-2E4632?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      </td>
+  </tr>
 </table>
 
 </div>

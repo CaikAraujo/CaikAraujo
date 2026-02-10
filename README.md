@@ -3,11 +3,11 @@
 
   ### 🚀 Software Engineer | Back-end Specialist
 
-  <img src="https://media.tenor.com/2p19AbeIOfkAAAAC/singed-jun.gif" width="350" />
+ <img src="singed-jun-league-of-legends.gif" width="350" alt="Singed Running" />
 
-  <p>
-    <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/Email-2E4632?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+ <br /> <br /> <p>
+    <a href="https://www.linkedin.com/in/caikaraujo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:caik.dantas007@gmail.com"><img src="https://img.shields.io/badge/Email-2E4632?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
   </p>
 </div>
 
@@ -59,12 +59,16 @@ API complexa para telemetria térmica com geração automática de relatórios e
 </td>
 <td width="50%" valign="top">
 
-### 📦 LA Global Logistics
-Desenvolvimento da infraestrutura digital para uma empresa de logística e mudanças corporativas.
-
-**Stack:** ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+### 📦 LA Global Express
+Infraestrutura digital e website para serviços de logística e mudanças corporativas.
+<br><br>
+**Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) 
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+<br><br>
+<a href="https://github.com/CaikAraujo/la-global-express">
+  <img src="https://img.shields.io/badge/View_Repository-2E4632?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 </tr>
@@ -77,8 +81,8 @@ Desenvolvimento da infraestrutura digital para uma empresa de logística e mudan
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaikAraujo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CaikAraujo&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaikAraujo&show_icons=true&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CaikAraujo&theme=shadow_green&hide_border=false" />
 </div>
 
 ---

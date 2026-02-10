@@ -56,16 +56,20 @@ A complex thermal telemetry API designed for real-time monitoring, PDF report ge
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+<a href="https://github.com/CaikAraujo/Fridge-Telemetry-System">
+  <img src="https://img.shields.io/badge/View_Repository-2E4632?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </td>
 <td width="50%" valign="top">
 
 ### 📦 LA Global Express
 Modern digital infrastructure and web platform developed for corporate logistics and moving services.
-<br><br>
+
 **Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-<br><br>
+
 <a href="https://github.com/CaikAraujo/la-global-express">
   <img src="https://img.shields.io/badge/View_Repository-2E4632?style=for-the-badge&logo=github&logoColor=white" />
 </a>

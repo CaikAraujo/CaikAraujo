@@ -13,17 +13,17 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
-Sou um desenvolvedor brasileiro de 21 anos, atualmente vivendo em **Genebra, Suíça**. Sou apaixonado por resolver problemas complexos no Back-end e estou finalizando minha graduação em **Engenharia de Software**. Fundador da **Vortex**, foco na criação de microserviços escaláveis e arquiteturas robustas.
+I am a 21-year-old Brazilian developer based in **Geneva, Switzerland**. Currently, I am in the final year of my **Software Engineering** degree, focusing on building high-performance systems and scalable back-end architectures. My expertise lies in designing efficient microservices and solving complex logic challenges within the Java ecosystem.
 
 <details>
-  <summary><b>🔍 Mais detalhes sobre minha trajetória</b></summary>
+  <summary><b>🔍 Technical Background & Hobbies</b></summary>
   <br />
   <ul>
-    <li>🇮🇹 Possuo cidadania italiana e residência na Suíça.</li>
-    <li>⚙️ Especialista em ecossistema Java (Spring, Spring Boot, Hibernate).</li>
-    <li>☁️ Experiência com Azure, MySQL e integração de APIs como Resend.</li>
+    <li>🇮🇹 Italian citizenship and Swiss residency.</li>
+    <li>⚙️ Deep dive into Java (Spring Boot, Hibernate) and Cloud Infrastructure.</li>
+    <li>☁️ Hands-on experience with Azure, MySQL, and automated thermal monitoring systems.</li>
   </ul>
 </details>
 
@@ -41,7 +41,7 @@ Sou um desenvolvedor brasileiro de 21 anos, atualmente vivendo em **Genebra, Su�
 
 ---
 
-### 📁 Projetos de Engenharia
+### 📁 Engineering Projects
 
 <div align="center">
 
@@ -50,7 +50,7 @@ Sou um desenvolvedor brasileiro de 21 anos, atualmente vivendo em **Genebra, Su�
 <td width="50%" valign="top">
 
 ### ❄️ VF FROID System
-API complexa para telemetria térmica com geração automática de relatórios em PDF e integração de e-mails.
+A complex thermal telemetry API designed for real-time monitoring, PDF report generation, and automated email workflows.
 
 **Stack:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -60,10 +60,10 @@ API complexa para telemetria térmica com geração automática de relatórios e
 <td width="50%" valign="top">
 
 ### 📦 LA Global Express
-Infraestrutura digital e website para serviços de logística e mudanças corporativas.
+Modern digital infrastructure and web platform developed for corporate logistics and moving services.
 <br><br>
-**Stack:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) 
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) 
+**Stack:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) 
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 <br><br>
 <a href="https://github.com/CaikAraujo/la-global-express">
@@ -81,8 +81,8 @@ Infraestrutura digital e website para serviços de logística e mudanças corpor
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaikAraujo&show_icons=true&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CaikAraujo&theme=shadow_green&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaikAraujo&show_icons=true&theme=shadow_green&icon_color=6DB33F&text_color=ffffff&bg_color=161b22&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CaikAraujo&theme=shadow_green&fire=6DB33F&ring=2E4632&sideNums=ffffff&currStreakNum=6DB33F&hide_border=false" />
 </div>
 
 ---

@@ -56,7 +56,7 @@ I am a 21-year-old Brazilian developer based in **Geneva, Switzerland**. Current
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
-      <a href="LINK_DO_REPOSITORIO_VF_FROID">
+      <a href="https://github.com/CaikAraujo/Fridge-Telemetry-System">
         <img src="https://img.shields.io/badge/View_Repository-2E4632?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
@@ -85,7 +85,7 @@ I am a 21-year-old Brazilian developer based in **Geneva, Switzerland**. Current
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
-      <a href="LINK_DO_SEU_NOVO_PROJETO">
+      <a href="https://github.com/CaikAraujo/Scheduler-API">
         <img src="https://img.shields.io/badge/View_Repository-2E4632?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
